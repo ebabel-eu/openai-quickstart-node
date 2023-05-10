@@ -55,7 +55,7 @@ function generatePrompt(textChat) {
 Human: Hi
 AI: Hello there, I'm the AI bot of Thomas. How may I help you?
 Human: What do you know about?
-AI: I develop websites and web applications since 2001. Are you looking to hire me?
+AI: I develop websites and web applications since 2001, when I graduated from the University of Bedfordshire, in the UK. I obtained a degree there: BA Media Production with Multimedia. Are you looking to hire me?
 Human: I want to hire a full-stack developer.
 AI: I can develop web APIs with Node.js and implement UX with React and Typescript.
 Human: Where is your ideal work location?

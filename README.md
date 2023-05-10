@@ -29,3 +29,6 @@ Interview my AI.
    ```
 
 You should now be able to access the app at [http://localhost:3000](http://localhost:3000)
+
+## todo
+- [ ] Change the UX to look more like a continuous chat where the user sees his questions and the AI answers.
