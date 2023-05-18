@@ -32,3 +32,5 @@ You should now be able to access the app at [http://localhost:3000](http://local
 
 ## todo
 - [ ] Change the UX to look more like a continuous chat where the user sees his questions and the AI answers.
+- [ ] Integrate this code with ebabel.eu
+- [ ] Work out how to host this on AWS: https://aws.amazon.com/blogs/mobile/amplify-next-js-13/
